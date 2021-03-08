@@ -4,7 +4,8 @@ Ansible, Docker, Elk Stack
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+![Azure_Lab_Environment](https://user-images.githubusercontent.com/80214918/110392801-23f4dc00-802f-11eb-80b8-1d03ceef61ce.png)
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat and Microbeat.
 
