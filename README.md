@@ -133,7 +133,7 @@ _As a **Bonus**, provide the specific commands the user will need to run to down
 
 - To create the playbook: nano filebeat-playbook.yml
 
-![13 filebeat](https://user-images.githubusercontent.com/80214918/110514952-7684d580-80cd-11eb-979d-b8874c929d98.png)
+![13 filebeat](https://user-images.githubusercontent.com/80214918/110515842-746f4680-80ce-11eb-8255-491dc912f38d.png)
         
 ---
 - To run the playbook: ansible-playbook filebeat-playbook.yml
