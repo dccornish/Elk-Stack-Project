@@ -6,7 +6,7 @@ The files in this repository were used to configure the network depicted below.
 
 ![Azure_Lab_Environment](https://user-images.githubusercontent.com/80214918/110512134-8f3fbc00-80ca-11eb-917b-6a555fa3a71c.png)
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat and Microbeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat and Microbeat.
 
  - root@4d2c8d5a2466:~# /etc/ansible/roles/filebeat-playbook.yml
  - root@4d2c8d5a2466:~# /etc/ansible/roles/elk-playbook.yml
