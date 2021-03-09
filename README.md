@@ -92,7 +92,7 @@ These Beats allow us to collect the following information from each machine:
 
 - Filebeat is used to collect log files from specific files on remote machines. An example would be MS Azure and MySQL databases. 
 
-- Metricbeat collects machine metrics. It is a measurrement to analyse how healthy the system is
+- Metricbeat collects machine metrics. It is a measurrement to analyze how healthy the system is
 
 ### Using the Playbook
 In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
