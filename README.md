@@ -99,7 +99,7 @@ In order to use the playbook, you will need to have an Ansible control node alre
 
 SSH into the control node and follow the steps below:
 
-##---Filebeat---
+## ---Filebeat---
 
 - Copy the filebeat-configuration.yml file to /etc/ansible/roles/files.
 
@@ -107,7 +107,7 @@ SSH into the control node and follow the steps below:
 
 - Run the playbook, and navigate to http://20.36.137.243:5601/app/kabana(ELK-VM public IP) to check that the installation worked as expected.
 
-##---Metricbeat---
+## ---Metricbeat---
 
 - Copy the metricbeat-configuration.yml file to /etc/ansible/roles/files.
 
