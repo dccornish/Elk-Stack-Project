@@ -105,7 +105,7 @@ SSH into the control node and follow the steps below:
 
 - Update the filebeat-configuration.yml file to include the ELK private IP in lines 1106 and 1806.
 
-- Run the playbook, and navigate to http://20.36.137.243:5601/app/kabana(ELK-VM public IP) to check that the installation worked as expected.
+- Run the playbook, and navigate to http://20.36.137.243:5601/app/kibana(ELK-VM public IP) to check that the installation worked as expected.
 
 ## ---Metricbeat---
 
@@ -113,7 +113,7 @@ SSH into the control node and follow the steps below:
 
 - Update the metricbeat-configuration.yml file to include the ELK private IP in lines 62 and 96.
 
-- Run the playbook, and navigate to http://20.36.137.243:5601/app/kabana(ELK-VM public IP) to check that the installation worked as expected.
+- Run the playbook, and navigate to http://20.36.137.243:5601/app/kibana(ELK-VM public IP) to check that the installation worked as expected.
 Answer the following questions to fill in the blanks:
 - Which file is the playbook? filebeat-playbook.yml
 
